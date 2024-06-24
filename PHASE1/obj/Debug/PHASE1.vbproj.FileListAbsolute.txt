@@ -1,0 +1,34 @@
+C:\Users\ortizfamily\Documents\Visual Studio 2010\Projects\PHASE1\PHASE1\bin\Debug\PHASE1.exe
+C:\Users\ortizfamily\Documents\Visual Studio 2010\Projects\PHASE1\PHASE1\obj\Debug\PHASE1.AddAccount.resources
+C:\Users\ortizfamily\Documents\Visual Studio 2010\Projects\PHASE1\PHASE1\obj\Debug\PHASE1.StudentAdd.resources
+C:\Users\ortizfamily\Documents\Visual Studio 2010\Projects\PHASE1\PHASE1\obj\Debug\PHASE1.Form1.resources
+C:\Users\ortizfamily\Documents\Visual Studio 2010\Projects\PHASE1\PHASE1\obj\Debug\PHASE1.mainform.resources
+C:\Users\ortizfamily\Documents\Visual Studio 2010\Projects\PHASE1\PHASE1\obj\Debug\PHASE1.Resources.resources
+C:\Users\ortizfamily\Documents\Visual Studio 2010\Projects\PHASE1\PHASE1\obj\Debug\PHASE1.Payment.resources
+C:\Users\ortizfamily\Documents\Visual Studio 2010\Projects\PHASE1\PHASE1\obj\Debug\PHASE1.SearcUpdate.resources
+C:\Users\ortizfamily\Documents\Visual Studio 2010\Projects\PHASE1\PHASE1\obj\Debug\PHASE1.Settings.resources
+C:\Users\ortizfamily\Documents\Visual Studio 2010\Projects\PHASE1\PHASE1\obj\Debug\PHASE1.StudentNumber.resources
+C:\Users\ortizfamily\Documents\Visual Studio 2010\Projects\PHASE1\PHASE1\obj\Debug\PHASE1.updateAccount.resources
+C:\Users\ortizfamily\Documents\Visual Studio 2010\Projects\PHASE1\PHASE1\obj\Debug\PHASE1.UpdateForm.resources
+C:\Users\ortizfamily\Documents\Visual Studio 2010\Projects\PHASE1\PHASE1\obj\Debug\PHASE1.vbproj.GenerateResource.Cache
+C:\Users\ortizfamily\Documents\Visual Studio 2010\Projects\PHASE1\PHASE1\obj\Debug\PHASE1.exe
+C:\Users\ortizfamily\Documents\Visual Studio 2010\Projects\PHASE1\PHASE1\obj\Debug\PHASE1.xml
+C:\Users\ortizfamily\Documents\Visual Studio 2010\Projects\PHASE1\PHASE1\obj\Debug\PHASE1.pdb
+C:\Users\ortizfamily\Desktop\PHASE1\PHASE1\obj\Debug\PHASE1.exe
+C:\Users\ortizfamily\Desktop\PHASE1\PHASE1\obj\Debug\PHASE1.xml
+C:\Users\ortizfamily\Desktop\PHASE1\PHASE1\obj\Debug\PHASE1.pdb
+C:\Users\ortizfamily\Desktop\PHASE1\PHASE1\bin\Debug\PHASE1.exe
+C:\Users\ortizfamily\Desktop\PHASE1\PHASE1\bin\Debug\PHASE1.pdb
+C:\Users\ortizfamily\Desktop\PHASE1\PHASE1\bin\Debug\PHASE1.xml
+C:\Users\ortizfamily\Desktop\PHASE1\PHASE1\obj\Debug\PHASE1.AddAccount.resources
+C:\Users\ortizfamily\Desktop\PHASE1\PHASE1\obj\Debug\PHASE1.StudentAdd.resources
+C:\Users\ortizfamily\Desktop\PHASE1\PHASE1\obj\Debug\PHASE1.Form1.resources
+C:\Users\ortizfamily\Desktop\PHASE1\PHASE1\obj\Debug\PHASE1.mainform.resources
+C:\Users\ortizfamily\Desktop\PHASE1\PHASE1\obj\Debug\PHASE1.Resources.resources
+C:\Users\ortizfamily\Desktop\PHASE1\PHASE1\obj\Debug\PHASE1.Payment.resources
+C:\Users\ortizfamily\Desktop\PHASE1\PHASE1\obj\Debug\PHASE1.SearcUpdate.resources
+C:\Users\ortizfamily\Desktop\PHASE1\PHASE1\obj\Debug\PHASE1.Settings.resources
+C:\Users\ortizfamily\Desktop\PHASE1\PHASE1\obj\Debug\PHASE1.StudentNumber.resources
+C:\Users\ortizfamily\Desktop\PHASE1\PHASE1\obj\Debug\PHASE1.updateAccount.resources
+C:\Users\ortizfamily\Desktop\PHASE1\PHASE1\obj\Debug\PHASE1.UpdateForm.resources
+C:\Users\ortizfamily\Desktop\PHASE1\PHASE1\obj\Debug\PHASE1.vbproj.GenerateResource.Cache

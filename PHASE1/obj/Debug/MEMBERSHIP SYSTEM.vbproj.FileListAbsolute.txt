@@ -1,0 +1,114 @@
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\bin\Debug\PHASE1.exe.config
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.exe
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.xml
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.pdb
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\MEMBERSHIP SYSTEM.vbprojResolveAssemblyReference.cache
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.AddAccount.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.StudentAdd.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.AlumniForm.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.Form1.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.LogRecodForm.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.LogReportViewer.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.mainform.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.MainReport.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.Membership.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.MemPayment.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.Resources.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.Payment.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.ReportViwer.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.SearchStudent.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.SemOneReportViewer.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.SemTwoReportViewer.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.Settings.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.SplashScreen2.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.StudentNumber.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.StudentReportViewer.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.updateAccount.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.UpdateFirstSem.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.UpdateFormUser.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.UpdatePayment.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.UpdateSecondSem.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.UpdateStudentAdmin.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\PHASE1.View_Student.resources
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\MEMBERSHIP SYSTEM.vbproj.GenerateResource.Cache
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\RdlCompile.cache
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\obj\Debug\RdlCompile.compiled
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\bin\Debug\PHASE1.exe
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\bin\Debug\PHASE1.pdb
+C:\Users\ortizfamily\Desktop\PHASE3(90%)\PHASE1\bin\Debug\PHASE1.xml
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\bin\Debug\PHASE1.exe.config
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.exe
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.xml
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.pdb
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\MEMBERSHIP SYSTEM.vbprojResolveAssemblyReference.cache
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.AddAccount.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.StudentAdd.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.AlumniForm.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.Form1.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.LogRecodForm.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.LogReportViewer.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.mainform.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.MainReport.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.Membership.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.MemPayment.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.Resources.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.Payment.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.ReportViwer.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.SearchStudent.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.SemOneReportViewer.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.SemTwoReportViewer.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.Settings.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.SplashScreen2.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.StudentNumber.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.StudentReportViewer.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.updateAccount.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.UpdateFirstSem.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.UpdateFormUser.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.UpdatePayment.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.UpdateSecondSem.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.UpdateStudentAdmin.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.View_Student.resources
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\MEMBERSHIP SYSTEM.vbproj.GenerateResource.Cache
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\RdlCompile.cache
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\obj\Debug\RdlCompile.compiled
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\bin\Debug\PHASE1.exe
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\bin\Debug\PHASE1.pdb
+C:\Users\Aira\Documents\Visual Studio 2010\Projects\PHASE3(95%)\PHASE1\bin\Debug\PHASE1.xml
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\bin\Debug\PHASE1.exe.config
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.exe
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.xml
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.pdb
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\bin\Debug\PHASE1.exe
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\bin\Debug\PHASE1.pdb
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\bin\Debug\PHASE1.xml
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\MEMBERSHIP SYSTEM.vbprojResolveAssemblyReference.cache
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.AddAccount.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.StudentAdd.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.AlumniForm.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.Form1.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.LogRecodForm.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.LogReportViewer.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.mainform.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.MainReport.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.Membership.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.MemPayment.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.Resources.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.Payment.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.ReportViwer.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.SearchStudent.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.SemOneReportViewer.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.SemTwoReportViewer.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.Settings.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.SplashScreen2.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.StudentNumber.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.StudentReportViewer.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.updateAccount.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.UpdateFirstSem.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.UpdateFormUser.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.UpdatePayment.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.UpdateSecondSem.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.UpdateStudentAdmin.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\PHASE1.View_Student.resources
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\MEMBERSHIP SYSTEM.vbproj.GenerateResource.Cache
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\RdlCompile.cache
+C:\Users\ortizfamily\Videos\PHASE3(95%)\PHASE1\obj\Debug\RdlCompile.compiled

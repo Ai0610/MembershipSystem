@@ -1,0 +1,404 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B9D4389D-115F-4C1A-BC6C-4ABB24B58651}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>PHASE1.My.MyApplication</StartupObject>
+    <RootNamespace>PHASE1</RootNamespace>
+    <AssemblyName>PHASE1</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>PHASE1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>PHASE1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>PHASE1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>PHASE1.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Devart.Data, Version=5.0.1375.0, Culture=neutral, PublicKeyToken=09af7300eec23701" />
+    <Reference Include="Devart.Data.MySql, Version=8.4.583.0, Culture=neutral, PublicKeyToken=09af7300eec23701, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.9.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddAccount.Designer.vb">
+      <DependentUpon>AddAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddStudentInfo.Designer.vb">
+      <DependentUpon>AddStudentInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddStudentInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlumniForm.Designer.vb">
+      <DependentUpon>AlumniForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AlumniForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="dbconnection.vb" />
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogRecodForm.Designer.vb">
+      <DependentUpon>LogRecodForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LogRecodForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogReportViewer.Designer.vb">
+      <DependentUpon>LogReportViewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LogReportViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainform.Designer.vb">
+      <DependentUpon>mainform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mainform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainReport.Designer.vb">
+      <DependentUpon>MainReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mbsystemDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>mbsystemDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Membership.Designer.vb">
+      <DependentUpon>Membership.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Membership.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemPayment.Designer.vb">
+      <DependentUpon>MemPayment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MemPayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="module2.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Payment.Designer.vb">
+      <DependentUpon>Payment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Payment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportViwer.Designer.vb">
+      <DependentUpon>ReportViwer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportViwer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchStudent.Designer.vb">
+      <DependentUpon>SearchStudent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SearchStudent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SemOneReportViewer.Designer.vb">
+      <DependentUpon>SemOneReportViewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SemOneReportViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SemTwoReportViewer.Designer.vb">
+      <DependentUpon>SemTwoReportViewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SemTwoReportViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings.Designer.vb">
+      <DependentUpon>Settings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen2.Designer.vb">
+      <DependentUpon>SplashScreen2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentNumber.Designer.vb">
+      <DependentUpon>StudentNumber.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StudentNumber.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentReportViewer.Designer.vb">
+      <DependentUpon>StudentReportViewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StudentReportViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updateAccount.Designer.vb">
+      <DependentUpon>updateAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="updateAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateFirstSem.Designer.vb">
+      <DependentUpon>UpdateFirstSem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateFirstSem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateFormUser.Designer.vb">
+      <DependentUpon>UpdateFormUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateFormUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdatePayment.Designer.vb">
+      <DependentUpon>UpdatePayment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UpdatePayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateSecondSem.Designer.vb">
+      <DependentUpon>UpdateSecondSem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateSecondSem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateStudentAdmin.Designer.vb">
+      <DependentUpon>UpdateStudentAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateStudentAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View Student.Designer.vb">
+      <DependentUpon>View Student.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View Student.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AddAccount.resx">
+      <DependentUpon>AddAccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddStudentInfo.resx">
+      <DependentUpon>AddStudentInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlumniForm.resx">
+      <DependentUpon>AlumniForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogRecodForm.resx">
+      <DependentUpon>LogRecodForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="logReport.rdlc" />
+    <EmbeddedResource Include="LogReportViewer.resx">
+      <DependentUpon>LogReportViewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainform.resx">
+      <DependentUpon>mainform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainReport.resx">
+      <DependentUpon>MainReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Membership.resx">
+      <DependentUpon>Membership.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemPayment.resx">
+      <DependentUpon>MemPayment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payment.resx">
+      <DependentUpon>Payment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportViwer.resx">
+      <DependentUpon>ReportViwer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchStudent.resx">
+      <DependentUpon>SearchStudent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SemOneReportViewer.resx">
+      <DependentUpon>SemOneReportViewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SemReport1.rdlc" />
+    <EmbeddedResource Include="SemReport2.rdlc" />
+    <EmbeddedResource Include="SemTwoReportViewer.resx">
+      <DependentUpon>SemTwoReportViewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings.resx">
+      <DependentUpon>Settings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen2.resx">
+      <DependentUpon>SplashScreen2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentNumber.resx">
+      <DependentUpon>StudentNumber.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentReport.rdlc" />
+    <EmbeddedResource Include="StudentReportViewer.resx">
+      <DependentUpon>StudentReportViewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updateAccount.resx">
+      <DependentUpon>updateAccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateFirstSem.resx">
+      <DependentUpon>UpdateFirstSem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateFormUser.resx">
+      <DependentUpon>UpdateFormUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdatePayment.resx">
+      <DependentUpon>UpdatePayment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateSecondSem.resx">
+      <DependentUpon>UpdateSecondSem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateStudentAdmin.resx">
+      <DependentUpon>UpdateStudentAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View Student.resx">
+      <DependentUpon>View Student.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YearReport.rdlc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="mbsystemDataSet.xsc">
+      <DependentUpon>mbsystemDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="mbsystemDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>mbsystemDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="mbsystemDataSet.xss">
+      <DependentUpon>mbsystemDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
